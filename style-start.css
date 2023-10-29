@@ -142,6 +142,10 @@ h3 {
   border: 2px solid #a775f1;
 }
 
+.grid-col-span-2 {
+  grid-column: span 2;
+}
+
 /* components */
 .testimonial-grid {
   display: grid;
